@@ -1,5 +1,7 @@
-# exercicio
-
+# Gerenciamento de Funcionarios
+Atividade passada dentro de Sala para o estudo de POO em Java.
+- - -
+## Exercicio
 Uma empresa deseja desenvolver um sistema para gerenciar pagamentos de funcionários. Para isso, implemente uma hierarquia de classes em Java seguindo os requisitos abaixo:
 
 a) Crie uma interface Pagamento contendo o método:
